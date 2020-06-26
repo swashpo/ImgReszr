@@ -1,13 +1,6 @@
-/* *****************************************************************************
- *  Name:    Richard Ma
- *  NetID:   rm44
- *  Precept: P05
- *
- *
- *  Description:  Given a picture, finds horizontal and vertical seams with
- *  lowest energy and also removes specified seams from picture.
- *
- **************************************************************************** */
+//  Description:  Given a picture, finds horizontal and vertical seams with
+// lowest energy and also removes specified seams from picture.
+
 
 import edu.princeton.cs.algs4.IndexMinPQ;
 import edu.princeton.cs.algs4.Picture;
